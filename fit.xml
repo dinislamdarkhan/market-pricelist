@@ -1,0 +1,17 @@
+﻿<fm_catalog date="2023-06-16 10:18">
+	<shop>
+		<merchant-id>AKkGs0edvwhEXTpiXw</merchant-id>
+		<offers>
+			<offer sku="14325-2022">
+				<name>265/50R20 107V ROADIAN HTX RH5 NEXEN/всесезонные  2022</name>
+				<pickup-options>
+					<pickup-option id="PP4"/>
+					<pickup-option id="PP4"/>
+					<pickup-option id="PP4"/>
+					<pickup-option id="PP4"/>
+				</pickup-options>
+				<price>86000</price>
+			</offer>
+		</offers>
+	</shop>
+</fm_catalog>
